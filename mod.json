@@ -1,0 +1,19 @@
+{
+	"geode": "4.10.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "ui.engine",
+	"name": "UIEngine",
+	"version": "v1.0.0",
+	"developers": ["FractureFX", "NinjaboyAndrey"],
+	"description": "Take full control of your UI!",
+	"links": {
+		"source": "https://github.com",
+		"community": "https://discord.gg/KN68auYRa8"
+	},
+	"tags": ["universal", "customization", "offline", "interface"]
+}
