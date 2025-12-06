@@ -12,7 +12,7 @@
 	"developers": ["FractureFX", "NinjaboyAndrey"],
 	"description": "Take full control of your UI!",
 	"links": {
-		"source": "https://github.com",
+		"source": "https://github.com/FractureFX/UIEngine",
 		"community": "https://discord.gg/KN68auYRa8"
 	},
 	"tags": ["universal", "customization", "offline", "interface"]
