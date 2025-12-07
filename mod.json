@@ -6,7 +6,7 @@
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "fracture.uiengine",
+	"id": "fractureandrey.uiengine",
 	"name": "UIEngine",
 	"version": "v1.0.0",
 	"developers": ["FractureFX", "NinjaboyAndrey"],
@@ -15,5 +15,11 @@
 		"source": "https://github.com/FractureFX/UIEngine",
 		"community": "https://discord.gg/KN68auYRa8"
 	},
-	"tags": ["universal", "customization", "offline", "interface"]
+	"tags": ["universal", "customization", "offline", "interface"],
+	"dependencies": {
+		"geode.node-ids": {
+			"importance": "required",
+			"version": ">=1.20.1"
+		}
+	}
 }
