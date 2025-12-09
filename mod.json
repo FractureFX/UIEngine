@@ -6,10 +6,10 @@
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "fractureandrey.uiengine",
+	"id": "fracturefx.uiengine",
 	"name": "UIEngine",
 	"version": "v1.0.0",
-	"developers": ["FractureFX", "NinjaboyAndrey"],
+	"developer": "FractureFX",
 	"description": "Take full control of your UI!",
 	"links": {
 		"source": "https://github.com/FractureFX/UIEngine",
@@ -23,3 +23,4 @@
 		}
 	}
 }
+
